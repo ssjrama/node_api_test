@@ -1,1 +1,1 @@
-mocha chai suppertest
+mocha chai supertest
